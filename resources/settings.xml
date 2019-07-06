@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <setting label="cmd" type="text" id="cmd" default="Enter cmd here you want to run!"/>
+</settings>
